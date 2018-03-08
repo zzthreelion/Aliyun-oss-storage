@@ -71,7 +71,7 @@ class AliOssAdapter extends AbstractAdapter
     protected $cdnDomain;
 
     protected $ssl;
-
+//是否配置cname域名
     protected $isCname;
 
     //配置
